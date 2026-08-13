@@ -17,4 +17,4 @@ Fourth-year Electrical and Electronics Engineering student at METU. Passionate a
 
 ## 📬 Contact
 *   **Email:** [barisclkc@gmail.com](mailto:barisclkc@gmail.com)
-*   **LinkedIn:** [bariscolakca-753935233](https://www.linkedin.com/in/bariscolakca-753935233)
+*   **LinkedIn:** www.linkedin.com/in/baris-colakca-753935233
