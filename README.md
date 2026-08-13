@@ -1,16 +1,20 @@
-## Hi there 👋
+# Barış ÇOLAKÇA | Electrical & Electronics Engineer
 
-<!--
-**barisclkc-sys/barisclkc-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fourth-year Electrical and Electronics Engineering student at METU. Passionate about building practical engineering solutions with a strong interest in automation, embedded systems, and applied electromagnetics.
 
-Here are some ideas to get you started:
+## 🛠 Technical Stack
+*   **Languages:** C, C++, Python, Verilog, MATLAB, Bash.
+*   **Hardware & Embedded:** Embedded Systems, FPGA (Verilog), Yocto Project.
+*   **Engineering Tools:** LTSpice, NX-11, GNU Radio, Spice programs.
+*   **AI & Data:** Edge AI, Whisper (STT), Large Language Models (LLMs), Streamlit
+*   **OS & Environment:** Linux environment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Highlighted Engineering Experience
+*   **Edge AI Development:** Developed a fully offline, air-gapped AI meeting assistant optimized for CPU inference[cite: 1]. Integrated whisper.cpp for STT transcription and llama.cpp for NLP summarization using C++ and Bash on Linux
+*   **System Integration (TÜBİTAK):** Collected and analyzed complex sensor data, and designed an automated error-handling mechanism for hardware/software integration
+*   **Power Systems (Schneider Electric):** Researched and evaluated modern data center infrastructures and Uninterruptible Power Supply (UPS) systems
+*   **AI Data Engineering:** Built a custom academic publication scraper and conditional counter web application from scratch using Python and Streamlit
+
+## 📬 Contact
+*   **Email:** [barisclkc@gmail.com](mailto:barisclkc@gmail.com)
+*   **LinkedIn:** [bariscolakca-753935233](https://www.linkedin.com/in/bariscolakca-753935233)
